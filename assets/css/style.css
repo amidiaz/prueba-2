@@ -1,0 +1,23 @@
+/* etiqueta HTML VA DIRECTAMENTE EL NOMBRE */
+/* CLASES VA CON"." ADELANTE */
+/* ID VA CON "#" ADELANTE */
+
+body{
+    background-color: rgb(241, 0, 0);
+    color: aliceblue ;
+}
+
+#redes{text-align: center;
+    margin: auto;
+}
+ul li{ list-style-type: none;
+    margin-left: -3%
+    
+}
+.nombrePerfil{
+    font-size: 5rem;
+}
+.mapa{
+    padding: 10%;
+    border: 5%;
+}
